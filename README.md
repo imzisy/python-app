@@ -1,4 +1,4 @@
-## 0. How to run Django on your local machine
+## How to run Django on your local machine
 
 1. `git clone https://github.com/imzisy/python-app.git`
 2. Make sure you have pip installed if not follow step 3
