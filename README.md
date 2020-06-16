@@ -12,3 +12,12 @@
 7. run `python manage.py migrate`
 8. run `python manage.py createsuperuser`
 9. Enjoy :)
+
+## How to add new hotel price ?
+
+| You need to access the following url : http://127.0.0.1:8000/admin/hotels/hotel/add/
+
+## How to get RESTFUL api documentation ?
+
+| You need to access http://127.0.0.1:8000/
+
